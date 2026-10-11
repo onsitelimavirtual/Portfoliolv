@@ -1,0 +1,33 @@
+PASS JavaScript sintaticamente válido
+PASS Sete jogos integrados à biblioteca
+PASS Sete motores jogáveis
+PASS Progressão com limite de 20 níveis
+PASS 500 estilos visuais parametrizados
+PASS Jogo lógico gera solução e feedback
+PASS Algoritmo adaptativo de lógica limitado e verificável
+PASS Simulação com dt limitado e colisão
+PASS Corrida e motocross possuem entradas
+PASS Controle via teclado
+PASS Escolha corporativa de jogos e logo
+PASS HTML standalone com CSS e JS embutidos
+PASS Favicon incorporado
+PASS Sem mecânica ou marca do jogo anterior
+PASS Clickwrap de maioridade com registro versionado
+PASS Módulo WebGL experimental e renderização Canvas ativa
+PASS Workflow manual de APK de teste
+PASS Arquivos legais e PWA presentes
+RESUMO: 18/18 aprovados
+PASS acceleration {"type":"race","cruise":88,"accelerated":154,"released":117,"distanceCruise":27,"distanceAccelerated":79}
+PASS acceleration {"type":"moto","cruise":65,"accelerated":118,"released":80,"distanceCruise":20,"distanceAccelerated":58}
+PASS motorbike left/right and jump active in the physics engine
+PASS sprite loading, race/moto in-game rendering, on-screen throttle, touch release, keyboard, standalone assets
+PASS Veículos da garagem em cena
+PASS Garagem interativa e persistente
+PASS Ilustrações usadas no motocross
+PASS Aceleração mantém distância e velocidade físicas
+PASS Direção e aceleração por toques simultâneos
+PASS Controles de moto direita esquerda pulo
+PASS Gestos laterais e salto vertical na pista
+PASS Arte embutida sem servidor ou rede
+PASS Comunicação honesta de renderização 2,5D
+PASS Consentimento versionado
