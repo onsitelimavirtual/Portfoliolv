@@ -1,9 +1,0 @@
-PAINEL.LIMAVIRTUAL.ONLINE — VERSÃO INICIAL
-
-1. Publique index.html e apps.json na pasta raiz da hospedagem do subdomínio painel.limavirtual.online.
-2. Configure no provedor de DNS/hospedagem o subdomínio e HTTPS. Ter o domínio limavirtual.online não significa que o subdomínio já esteja configurado.
-3. Edite apps.json, substituindo os exemplos pelos nomes, ícones (emoji), descrições e links HTTPS reais de seus sistemas.
-4. Você também pode clicar em Configurar no painel, adicionar aplicações, exportar apps.json e substituir o arquivo na hospedagem.
-5. IMPORTANTE: Configurar é um editor local sem autenticação. Não é administração remota protegida nem grava no servidor. Alterações só serão públicas após publicação do JSON.
-6. Os sistemas HTML devem ser hospedados em seus próprios caminhos ou subdomínios. Este portal contém links e não executa nem importa códigos HTML dentro dos cartões.
-7. Testes recomendados: abrir em celular e desktop, confirmar HTTPS, verificar cada link, testar busca, importar/exportar JSON, simular URL errada e ausência de apps.json.
